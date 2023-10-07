@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Hexo",
+    "subtitle": "",
+    "icon": "http://example.com/images/favicon.ico",
+    "description": "",
+    "home_page_url": "http://example.com",
+    "items": [
+        {
+            "id": "http://example.com/2023/10/06/test/",
+            "url": "http://example.com/2023/10/06/test/",
+            "title": "Test",
+            "date_published": "2023-10-06T13:14:54.000Z",
+            "content_html": "<figure class=\"highlight javascript\"><figcaption data-lang=\"javascript\"></figcaption><table><tr><td data-num=\"1\"></td><td><pre><span class=\"token keyword\">let</span> a <span class=\"token operator\">=</span> <span class=\"token number\">123</span></pre></td></tr><tr><td data-num=\"2\"></td><td><pre><span class=\"token keyword\">let</span> b <span class=\"token operator\">=</span> a</pre></td></tr></table></figure>",
+            "tags": []
+        }
+    ]
+}
